@@ -15,14 +15,21 @@ Welcome to the **Next.js Exploration** project! This project is designed to show
 Next.js is a powerful React framework that enables server-side rendering and generating static websites for React-based web applications. This project demonstrates how to use various features of Next.js to build dynamic and high-performance web applications.
 
 ## Features
-- Server-side Rendering (SSR)
-- Static Site Generation (SSG)
-- API Routes
-- Dynamic Routing
-- CSS and Sass Support
-- Image Optimization
-- Fast Refresh
-- TypeScript Support
+- CSS Styling
+- Optimizing Fonts and Images
+- Creating Layouts and Pages
+- Navigating Between Pages
+- Setting Up Your Database
+- Fetching Data
+- Static and Dynamic Rendering
+- Streaming
+- Partial Prerendering
+- Adding Search and Pagination
+- Mutating Data
+- Handling Errors
+- Improving Accessibility
+- Adding Authentication 
+- Adding Metadata
 
 ## Getting Started
 To get started with this project, follow these steps:
